@@ -10,7 +10,7 @@ This analysis is a visualization of New York Citi Bike data (August 2019) in ord
 Deployed Tableau Analysis: 
 [Link to Tableau Dashboard](https://public.tableau.com/views/NYC_CitiBike_Visualizations_16459381789940/FinalPresentation?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link)
 
-I discovered by using the tableau with 7 different visulizations using the total number of trips, the types of users and the trip duration:
+I discovered by using the tableau and creating 7 different visulizations with the total number of trips, the types of users and the trip duration:
 - There was a total of 2,344,224 trips in the month of August.
 - From the total trips 1,900,359 users subscribe to the company and 443,865 users are customers.
 - There is a peak number of users who rent their bike for 5-6 hour trips.
