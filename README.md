@@ -1,6 +1,6 @@
 # Bikesharing
 ## Overview of the analysis
-This analysis is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business using data visualization tools.The purpose is to see if the bike rental business is worth investing in for a different city. One of the key factors we need to look at is trip duration. Finding out how long the trips are in the month of August. Thus, it will give us a good analysis on when the bikes are rented, how long they are rented and what times are the most popular times to rent a bike. \
+This analysis is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business using data visualization tools.The purpose is to see if the bike rental business is worth investing in for a different city. One of the key factors we need to look at is trip duration. Finding out how long the trips are in the month of August. Thus, it gives us a good analysis on when the bikes are rented, how long they are rented and what times are the most popular times to rent a bike. 
 
 ### Resources
 - Data Source: Citi Bike Data, 201908-citibike-tripdata.csv.zip
