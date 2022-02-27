@@ -8,7 +8,7 @@ This analysis is a visualization of New York Citi Bike data (August 2019) in ord
 
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 Deployed Tableau Analysis: 
-"This link" <https://public.tableau.com/views/NYC_CitiBike_Visualizations_16459381789940/FinalPresentation?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link>
+[Link to Tableau Dashboard](https://public.tableau.com/views/NYC_CitiBike_Visualizations_16459381789940/FinalPresentation?:language=en-US&:retry=yes&publish=yes&:display_count=n&:origin=viz_share_link)
 
 I discovered by using the tableau with 7 different visulizations using the total number of trips, the types of users and the trip duration:
 - There was a total of 2,344,224 trips in the month of August.
